@@ -1,1 +1,1 @@
-# Python_Socket
+I developed a Python program that connects to a local server using sockets. To facilitate multiple users connecting to the server and sending messages simultaneously, I implemented multithreading in Python.
